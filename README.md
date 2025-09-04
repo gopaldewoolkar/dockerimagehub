@@ -1,0 +1,1 @@
+## This project shows the how to work with GitHub Actions using Docker.
