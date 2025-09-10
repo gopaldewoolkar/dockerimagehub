@@ -4,24 +4,24 @@
 This repository contains a simple Flask web application that returns "Hello World!" at the root endpoint (/).
 It is fully Dockerized and includes a GitHub Actions CI/CD pipeline that:
 
-Runs automated tests with pytest
+ 1. Runs automated tests with pytest
 
-Builds a Docker image
+ 2. Builds a Docker image
 
-Pushes the image to DockerHub
+ 3. Pushes the image to DockerHub
 
 ### 🛠️ Tech Stack
 
-Flask
+ 1. Flask
  – Lightweight Python web framework
 
-Pytest
+ 2. Pytest
  – Testing framework
 
-Docker
+ 3. Docker
  – Containerization
 
-GitHub Actions
+ 4. GitHub Actions
  – CI/CD automation
 
 ### 📂 Project Structure
