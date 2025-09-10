@@ -1,5 +1,5 @@
-## This project shows the how to work with GitHub Actions using Docker.
 ## Dockerized Flask App with CI/CD 🚀
+### This project shows the how to work with GitHub Actions using Docker.
 
 This repository contains a simple Flask web application that returns "Hello World!" at the root endpoint (/).
 It is fully Dockerized and includes a GitHub Actions CI/CD pipeline that:
